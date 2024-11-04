@@ -1,0 +1,21 @@
+---
+title: "Testing ground for the case study"
+date: "`r format(Sys.time(), '%d %B, %Y %H:%M')`"
+author: "Prachet Singh"
+format: 
+  html: 
+    ### IMPORTANT ###
+    embed-resources: true # Creates a single HTML file as output
+    code-fold: true # Code folding; allows you to show/hide code chunks
+    ### USEFUL ###
+    code-tools: true # Includes a menu to download the code file
+    ### OPTIONAL ###
+    code-line-numbers: true # Line numbers in code chunks
+    df-print: paged # Sets how dataframes are automatically printed
+    theme: default # Controls the font, colours, etc.
+table-of-contents: true # (Useful) Creates a table of contents!
+number-sections: true # (Optional) Puts numbers next to heading/subheadings
+---
+# Figure out how to store the data
+
+# Try and have a lot of comments explaining your thought process
