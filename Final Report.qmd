@@ -17,6 +17,25 @@ table-of-contents: true # (Useful) Creates a table of contents!
 number-sections: true # (Optional) Puts numbers next to heading/subheadings
 ---
 
+# Formatting stuff
+
+maybe maintain a red and white color scheme
+
+use tons of photos
+
+cite sources
+
+references?
+
 # F1
 
-Formula 1 is an open-wheel racing series often called the pinnacle of Motorsport where teams battle for the World Constructor's Championship and drivers fight for the World Driver's Championship. The teams at the top usually have a lot of funding but it seems like whenever there is rain, the playing field becomes level and anyone can win or at least the lower teams can score a podium or two. In this report I will try to answer the question: **Is Rain Really The Great Equalizer in F1?**
+Formula 1 is an open-wheel racing series often called the pinnacle of Motorsport where teams battle for the World Constructor's Championship and drivers fight for the World Driver's Championship. The teams at the top usually have a lot of funding but it seems like whenever it rains, the playing field becomes level and anyone can win or at least the lower teams can score a podium or two. In this report I will try to answer the question: **Is Rain Really The Great Equalizer in F1?**
+
+# Limitations
+
+-   An issue might be that some drivers that have a seat in the top teams might still finish near the top because they are that skilled, like Max Verstappen's charge from P17 to P1 at Interlagos 2024.
+
+-   Only using race data from 2017 as the number of teams and therefore drivers has stayed the same since then.
+
+-   Sometimes drivers are not able to participate in a race weekend and therefore they are replaced by the team's reserve driver who may or may not be worse or better than the driver they are replacing which might affect the results.
+

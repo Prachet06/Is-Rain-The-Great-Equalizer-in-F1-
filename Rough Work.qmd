@@ -17,5 +17,6 @@ table-of-contents: true # (Useful) Creates a table of contents!
 number-sections: true # (Optional) Puts numbers next to heading/subheadings
 ---
 # Figure out how to store the data
+Maybe for each year group the drivers by formula A and Midfield and back markers based on where those teams finished each year and is there a difference in races finished in races where it rains and where it does not? And maybe work off of that 
 
 # Try and have a lot of comments explaining your thought process
